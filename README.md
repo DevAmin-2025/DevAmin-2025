@@ -6,3 +6,6 @@ I have a strong interest in computer science and programming, and coding is some
 ## 💻 Skills
 - **Languages**: Python, SQL, CSS, HTML
 - **Tools**: Git
+- 
+## How to Reach Me
+- 📧 Email: amindevzone@gmail.com
