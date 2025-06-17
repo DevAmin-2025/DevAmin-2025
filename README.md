@@ -4,7 +4,8 @@
 I have a strong interest in computer science and programming, and coding is something I truly enjoy. I'm always seeking new opportunities to learn, grow, and explore innovative technologies.
 
 ## 💻 Skills
-- **Languages**: Python, MySQL, CSS, HTML, PHP
+- **Languages**: Python, MySQL, HTML & CSS, PHP
+- **Framework**: Laravel
 - **Tools**: Git
 
 ## How to Reach Me
