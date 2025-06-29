@@ -11,6 +11,6 @@ I have a strong interest in computer science and programming, and coding is some
 ## How to Reach Me
 - 📧 Email: amindevzone@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmin-2025&layout=compact&card&hide=hack_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAmin-2025&layout=compact&card&hide=hack&hide=javascript_width=400)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAmin-2025&show_icons=true&hide=issues,contribs&card_width=400)
 
