@@ -6,7 +6,7 @@ I have a strong interest in computer science and programming, and coding is some
 ## 💻 Skills
 - **Languages**: Python, MySQL, HTML & CSS, PHP
 - **Framework**: Laravel
-- **Tools**: Git
+- **Tools**: Git, Regex
 
 ## How to Reach Me
 - 📧 Email: amindevzone@gmail.com
